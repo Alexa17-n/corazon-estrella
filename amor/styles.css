@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Evita barras de desplazamiento */
+    background-color: black /* Fondo negro */
+}
+
+canvas {
+    display: block; /* Elimina márgenes extra */
+}
+
+/* Importa una fuente para el texto que cae, como la que se vio en el código */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
